@@ -6,7 +6,7 @@ type StoreItemProps = {
     id:number 
     name:string
     description:string
-    price:number
+    price: number
     imageUrl: string  
 }
 
